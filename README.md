@@ -5,6 +5,7 @@
 + python的包 `urllib` `pip install urllib`
 + python的包 `beautifulsoup` `pip install beautifulsoup4`
 + selenium `pip install selenium`
++ python的包 `requests` `pip install requests`
 
 # 注意
 
